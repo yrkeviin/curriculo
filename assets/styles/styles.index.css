@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+    font-family: "Karla", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: #dadada;
+}
+
+h3 {
+    border-bottom: 3px solid black;
+}
+
+#container {
+    width: 800px;
+    margin: 15px auto;
+    background-color: #fff;
+    border-radius: 23px;
+    height: 9g00px;
+}
+
+#foto {
+    text-align: center;
+}
+
+#foto img {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+#info-pessoal {
+    text-align: center;
+    margin-top: 6px;
+}
+
+#info-pessoal p {
+    padding-top: 11px;
+}
+
+#experiencia {
+    margin: 23px 40px;
+}
+
+#experiencia h3 {
+    font-size: 1rem;
+}
+
+#top1 {
+    margin: 2px 40px;
+}
+
+#top1 p {
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+li {
+    list-style-type: none;
+    font-size: .9rem;
+}
+
+#linha1 {
+    border-bottom: 3px solid #dadada;
+    margin: 17px 40px;
+}
+
+#top2 {
+    margin: 2px 40px;
+}
+
+#top2 p {
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+#educacao {
+    margin: 23px 40px;
+}
+
+#educacao h3 {
+    font-size: 1rem;
+}
+
+#top3 {
+    margin: 2px 40px;
+}
+
+#top3 p {
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+#top4 {
+    margin: 2px 40px;
+}
+
+#top4 p {
+    font-size: .9rem;
+    font-weight: bolder;
+}
+
+#habilidades {
+    margin: 23px 40px;
+}
+
+#habilidades h3 {
+    font-size: 1rem;
+}
